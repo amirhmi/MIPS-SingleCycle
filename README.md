@@ -1,7 +1,4 @@
 # MIPS-SingleCycle
-This is a Single Cycle MIPS implementation
-* [Pipeline version](https://github.com/gsoosk/MIPS-PipeLine)
-* [MultiCycle version](https://github.com/gsoosk/MIPS-MultiCycle)
 
 ### Logical Instructions
 ![img1](https://github.com/gsoosk/MIPS-SingleCycle/blob/master/img/1.png)
